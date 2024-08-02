@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "malcoo"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "malcoo"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "malcoo"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "malcoo"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "malcoo"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "malcoo"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -54,13 +54,13 @@
       "value": "id-amba-prod-001"
     },
     "managementSubscriptionId": {
-      "value": ""
+      "value": "be245564-b6c9-452d-996f-0baa0886455a"
     },
     "ALZMonitorResourceGroupName": {
-      "value": "rg-amba-monitoring-001"
+      "value": "amba-monitoring-rg"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "canadacentral"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
@@ -68,7 +68,7 @@
       }
     },
     "ALZMonitorActionGroupEmail": {
-      "value": ""
+      "value": "malcoo@microsoft.com"
     },
     "ALZLogicappResourceId": {
       "value": ""
